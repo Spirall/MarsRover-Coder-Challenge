@@ -1,0 +1,2 @@
+C:\Users\tbuthelezi\Documents\Assessment Challenges\Next24 Mars Rover Code Challenge\Next24 Mars Rover Code Challenge\obj\Debug\Next24 Mars Rover Code Challenge.csprojAssemblyReference.cache
+C:\Users\tbuthelezi\Documents\Assessment Challenges\Next24 Mars Rover Code Challenge\Next24 Mars Rover Code Challenge\obj\Debug\Next24 Mars Rover Code Challenge.csproj.CoreCompileInputs.cache
